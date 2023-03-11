@@ -1,0 +1,7 @@
+#!/bin/bash 
+#This is a function that prints Hello World!
+my_function()
+{
+  echo "Hello World!"
+}
+my_function
